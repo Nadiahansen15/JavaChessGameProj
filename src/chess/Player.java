@@ -5,6 +5,7 @@ import java.util.Scanner;
 class Player {
 	
 	private String test;
+	private String kusse;
 	private String name;
 	private String color;
 	private final Scanner scanner = new Scanner(System.in);
